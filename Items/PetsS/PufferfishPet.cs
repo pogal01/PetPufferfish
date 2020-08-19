@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace PetPuffer.Items.PetsS
+namespace PetPufferfish.Items.PetsS
 {
 	public class PufferfishPet : ModItem
 	{
